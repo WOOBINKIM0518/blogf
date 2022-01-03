@@ -21,6 +21,7 @@ function App() {
       <div className="list">
         <h3>{ 글제목[0] }</h3>
         <p>1월 3일 발행 수정 한번 더 수정</p>
+        <p>마지막 수정</p>
         <hr/>
       </div>
     </div>
